@@ -1,5 +1,5 @@
 # first-repo
 
-# My first repository comment
+# My new first repository comment
 
 # Another important comment
